@@ -1,0 +1,4 @@
+pages\BasePage.class
+pages\LoginPage1.class
+stepdefinition\LoginSteps.class
+pages\HomePage.class
